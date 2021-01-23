@@ -1,0 +1,18 @@
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    line-height: 1rem;
+    background-color: blanchedalmond;
+}
+
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    text-align: center;
+    color: darkblue;
+}
